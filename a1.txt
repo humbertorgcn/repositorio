@@ -1,3 +1,0 @@
-Soy Roberto y este es mi primer archivo en git 
-
-ahora modifico
