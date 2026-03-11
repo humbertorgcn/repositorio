@@ -2,4 +2,6 @@ Hola me acab de crear
 primera modificación
 segunda modificación
 
-creada raman tar1
+creada rama tar1
+
+creada rama tar2
